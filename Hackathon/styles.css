@@ -1,0 +1,49 @@
+#body
+         {
+            background-image:url(ywi48r.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            width: 100hh;
+            height: 100vh;
+            background-position: center;
+            background-attachment: fixed;
+            margin-top: 0%;
+            
+         }
+#head
+         {
+            color: rgb(239, 125, 4);
+            text-align: left;
+            font-size: 30px;
+         }
+          a:link{ 
+            color:rgb(232, 97, 0);
+            font-family:Georgia, 'Times New Roman', Times, serif ;
+            text-decoration-line: none;
+            font-size: 20px;
+            font-weight: bold;
+            font-style: italic;
+        }
+        a:visited{
+            color:rgb(227, 134, 11);
+            text-decoration-line: none;
+        }
+        a.hover{
+            color: #3c00ff;
+        }
+#header
+        { 
+         color: white;
+         text-align; center;
+         background-color:rgb(232, 97, 0);
+         font-size: 40px;
+         padding: 15px;
+        }
+p,li
+        {
+         font-size: 23px;
+         font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+        }
+
+
+   
